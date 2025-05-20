@@ -42,6 +42,10 @@ The obstacles, e.g., human body, are defined in
         }
     ]
 
+## Acknowledgement
+
+I'd like to particularly thank the [Centre for Transformative Garment Production](https://www.transgp.hk/) and [Prof. Taku Komura](https://www.cs.hku.hk/index.php/people/academic-staff/taku) for their supporting on my attending to the conference.
+
 ## Cite
 
     @article{
